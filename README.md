@@ -1,5 +1,5 @@
 # Todo
-#Read completely and then proceed.</br>
+#Read completely before you proceed.</br>
 <b>#Runs on port 3000</b></br>
 
 1.Make sure node js is installed on your computer(optional:install nodemon also).</br>
